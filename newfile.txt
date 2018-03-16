@@ -1,3 +1,1 @@
 this is a new file create to learn git file level edits recovery.
-This is line 2
-This is line 3 
