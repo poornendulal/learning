@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is a just a file created in the new branch
 
+=======
+Let create a problem.
+>>>>>>> master
+
+wonderful ! i am keeping both.
